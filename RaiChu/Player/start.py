@@ -23,9 +23,9 @@ async def start(_, message: Message):
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : @THE_VIP_BOY
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : @VIP_CREATORS
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : @TG_FRIENDSS
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : @BHUPENDRA_CODER
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : @MUSICE_CHATS
+┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : @BHULENDRA_CODER
 ┗━━━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -41,15 +41,15 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                       "🍒𝐉𝐨𝐢𝐧 𝐁𝐚𝐛𝐲🥀", url=f"https://t.me/VIP_CREATORS"
+                       "🍒𝐉𝐨𝐢𝐧 𝐁𝐚𝐛𝐲🥀", url=f"https://t.me/MUSICE_CHATS"
                     ),
                     InlineKeyboardButton(
-                       "😇𝐂𝐨𝐦𝐞 𝐇𝐞𝐫𝐞⛦⃕͜🇮🇳", url=f"https://t.me/TG_FRIENDSS"
+                       "😇𝐂𝐨𝐦𝐞 𝐇𝐞𝐫𝐞⛦⃕͜🇮🇳", url=f"https://t.me/BHUPENDRA_CODER"
                     )
                 ],[
                     InlineKeyboardButton(
                         "★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ★",
-                        url=f"https://t.me/THE_VIP_BOY",
+                        url=f"https://t.me/BHUPENDRA_CODER",
                     )
                 ]
             ]
